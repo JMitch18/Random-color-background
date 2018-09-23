@@ -1,0 +1,49 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: auto;
+    background: blue;
+    text-align: center;
+
+
+    
+    
+
+}
+
+input{
+    margin-top: 200px;
+    border: none;
+    border-radius: 2px;
+    width: 100px;
+    height: 65px;
+    font-size: 20px;
+   
+    
+}
+
+footer{
+
+    padding-top: 300px;
+}
+
+input:hover{
+
+    background: lightgrey;
+
+}
+
+input:active{
+
+    background: darkgrey;
+
+}
+
+
